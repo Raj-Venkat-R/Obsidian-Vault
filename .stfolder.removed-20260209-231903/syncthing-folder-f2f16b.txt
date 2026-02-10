@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: jsauc-vpasr
+created: 2026-02-09T23:16:29+05:30

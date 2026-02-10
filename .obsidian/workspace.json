@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "02fac345f5909243",
+    "type": "split",
+    "children": [
+      {
+        "id": "7993b900c82a2ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb65cd5680f2f244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA (Notes)/Arrays/1. What is Array?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. What is Array?"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd07ab7d208b2ee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "53ba2e3d6ed970c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9dfb9f2cca58b4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c71d3f1d4a67165b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a271c427ede1d53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d448e29ffcfb1180",
+    "type": "split",
+    "children": [
+      {
+        "id": "658bfd7a59b669a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d06f72e66abc981f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9798c1bb875b87d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1e184419f7bfb5d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7feb394c4519beb8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "69e39e35ff5a157f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bb65cd5680f2f244",
+  "lastOpenFiles": [
+    "DSA (Notes)/Arrays/1. What is Array?.md",
+    "DSA (Notes)/Arrays/10. LeetCode Cheat Sheet.md",
+    "DSA (Notes)/Arrays/1. What is Array?.md",
+    "DSA (Notes)/Arrays/1. What is an Array?.md",
+    "DSA (Notes)/Study Plan.md",
+    "DSA (Notes)/Arrays/6. Common Pitfalls.md",
+    "2026-02-10.md",
+    "DSA (Notes)/Arrays/9. Array vs List.md",
+    "DSA (Notes)/Arrays/8. Prefix Sum Concept.md",
+    "DSA (Notes)/Arrays/7. Brute Force.md",
+    "DSA (Notes)/Arrays/5. ArrayList Cheat Sheet.md",
+    "DSA (Notes)/Arrays/4. Fixed Array vs Dynamic Array.md",
+    "DSA (Notes)/Arrays/3. Insertion, Deletion & Update.md",
+    "DSA (Notes)/Arrays/2. Indexing and Traversal.md",
+    "DSA (Notes)/Arrays",
+    "DSA (Notes)/0. Absolute Foundations (Must Know)/1. What is DSA & Why it Matters.md",
+    "DSA (Notes)/0. Absolute Foundations (Must Know)",
+    "DSA (Notes)",
+    "DSA (LeetCode)/Stack/84. Largest Rectangle in Histogram.md",
+    "Untitled.base",
+    "2026-02-07.md",
+    "Untitled.canvas",
+    "DSA (LeetCode)/Array & Strings/Sliding Window/1004. Max Consecutive Ones III.md",
+    "DSA (LeetCode)/Index.base",
+    "DSA/Untitled.md",
+    "DSA (LeetCode)/Array & Strings/14. Longest Common Prefix.md",
+    "DSA (LeetCode)/Already Completed.md",
+    "DSA (LeetCode)/Array & Strings/Binary Search/153. Find Minimum in Rotated Sorted Array.md",
+    "DSA/Trees/Untitled.md",
+    "DSA (LeetCode)/Trees",
+    "DSA (LeetCode)/Array & Strings/Sliding Window/239. Sliding Window Maximum.md",
+    "DSA (LeetCode)/Array & Strings/560. Subarray Sum Equals K.md",
+    "DSA (LeetCode)/Array & Strings/Sliding Window/53. Maximum Subarray.md",
+    "DSA (LeetCode)/Stack",
+    "DSA (LeetCode)/Array & Strings/Binary Search",
+    "DSA (LeetCode)/Recursion",
+    "DSA (LeetCode)/Array & Strings/Sliding Window"
+  ]
+}

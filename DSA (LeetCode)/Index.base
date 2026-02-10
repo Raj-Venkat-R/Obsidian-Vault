@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("DSA")
+  - type: list
+    name: View
+    filters:
+      and:
+        - file.inFolder("DSA")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    indentProperties: true
+    markers: number
