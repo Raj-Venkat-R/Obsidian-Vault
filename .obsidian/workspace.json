@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7993b900c82a2ba9",
+        "id": "ec8417778dc1676a",
         "type": "tabs",
         "children": [
           {
-            "id": "bb65cd5680f2f244",
+            "id": "02454963affb22bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA (Notes)/Arrays/1. What is Array?.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. What is Array?"
+              "title": "New tab"
             }
           }
         ]
@@ -161,13 +157,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "43ac1aa648de07b1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +187,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb65cd5680f2f244",
+  "active": "02454963affb22bd",
   "lastOpenFiles": [
-    "LICENSE",
-    "DSA (Notes)/Arrays/1. What is Array?.md",
+    "DSA (Notes)/Arrays/Untitled.md",
     "DSA (Notes)/Arrays/10. LeetCode Cheat Sheet.md",
     "DSA (Notes)/Arrays/1. What is Array?.md",
+    "LICENSE",
     "DSA (Notes)/Arrays/1. What is an Array?.md",
     "DSA (Notes)/Study Plan.md",
     "DSA (Notes)/Arrays/6. Common Pitfalls.md",
@@ -218,7 +224,6 @@
     "DSA (LeetCode)/Array & Strings/560. Subarray Sum Equals K.md",
     "DSA (LeetCode)/Stack",
     "DSA (LeetCode)/Array & Strings/Binary Search",
-    "DSA (LeetCode)/Recursion",
-    "DSA (LeetCode)/Array & Strings/Sliding Window"
+    "DSA (LeetCode)/Recursion"
   ]
 }
