@@ -177,11 +177,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bb65cd5680f2f244",
   "lastOpenFiles": [
+    "LICENSE",
     "DSA (Notes)/Arrays/1. What is Array?.md",
     "DSA (Notes)/Arrays/10. LeetCode Cheat Sheet.md",
     "DSA (Notes)/Arrays/1. What is Array?.md",
@@ -214,7 +216,6 @@
     "DSA (LeetCode)/Trees",
     "DSA (LeetCode)/Array & Strings/Sliding Window/239. Sliding Window Maximum.md",
     "DSA (LeetCode)/Array & Strings/560. Subarray Sum Equals K.md",
-    "DSA (LeetCode)/Array & Strings/Sliding Window/53. Maximum Subarray.md",
     "DSA (LeetCode)/Stack",
     "DSA (LeetCode)/Array & Strings/Binary Search",
     "DSA (LeetCode)/Recursion",
